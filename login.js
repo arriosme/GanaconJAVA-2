@@ -12,3 +12,5 @@ Y esperamso CONFIRMACION
     de confirmacion de recepcion
     ////////////////////confirmar en g/////
     
+  Como ta tenemos el login vamos a fusionar
+  
