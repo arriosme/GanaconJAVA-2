@@ -13,4 +13,9 @@ Y esperamso CONFIRMACION
     ////////////////////confirmar en g/////
     
   Como ta tenemos el login vamos a fusionar
+  ******cambios revisados en gh++++++++
+  nuevos cambios a las 20:42
+  validar en el gh******************
+
+  
   
