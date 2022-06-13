@@ -17,5 +17,7 @@ Y esperamso CONFIRMACION
   nuevos cambios a las 20:42
   validar en el gh******************
 
-  
+  Confirmamos el cambio a las 20:25
+Se debe fusionar para verse en el master
+
   
